@@ -11,4 +11,3 @@ test_helpers:
 
 test_stores:
 	@$(NODE) test/stores/mongodb.js
-	@$(NODE) test/stores/sqlite.js

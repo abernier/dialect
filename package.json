@@ -4,15 +4,13 @@
   "version": "1.0.4",
   "author": "Pau Ramon <masylum@gmail.com>",
   "dependencies": {
-    "mongodb": "0.9.6-23",
-    "sqlite": "1.0.4",
-    "funk": "1.0.1"
+    "mongodb": "1.x",
+    "funk": "1.5.x"
   },
   "devDependencies": {
     "testosterone": "1.2.0",
     "gently": "0.9.1"
   },
   "repository" : {"type": "git" , "url": "http://github.com/masylum/dialect.git" },
-  "main": "./",
-  "engines": { "node": ">= 0.4.0" }
+  "main": "./"
 }
